@@ -4,4 +4,4 @@ ls:  is for listing files inside the directory
 ls -l: list files in the directory in long format
 ls -la: list all files in the directory in long format
 ls -la: list all files in the directory in long format
-sudo Mkdir my_first_directory /temp/: crates the directory in /temp/  
+mkdir /temp/my_first_directory : crates the directory in /temp/  
