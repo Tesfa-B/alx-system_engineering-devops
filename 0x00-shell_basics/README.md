@@ -4,4 +4,6 @@ ls:  is for listing files inside the directory
 ls -l: list files in the directory in long format
 ls -la: list all files in the directory in long format
 ls -la: list all files in the directory in long format
-mkdir /temp/my_first_directory : crates the directory in /temp/  
+mkdir /temp/my_first_directory : crates the directory in /temp/
+mv  /tmp/betty /temp/my_first_directory: moves betty to my_first_directory
+rm /tmp/my_first_directory/betty: deletes betty from my_first_directory 
