@@ -13,4 +13,7 @@ shell script for permissions
  chmod --refrence=hello olleh: sets the mode dame as the other file
  chmod -R ugo+X . : adds execute  permission to all subdirectories of Pwd
  chmod -m 751 my_dir : creates my-dir with rwx rx r permission
-
+ chgrp school  hello: changes group owner to school
+ chown vincent:staff . changes the owner to vincent and group owner to staff"
+ chown -h vincent:staff _hello : changes the owner and  group owner for _hello"
+ 
