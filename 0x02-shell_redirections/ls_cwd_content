@@ -1,17 +1,20 @@
-.
-..
-0-hello_world
-10-no_more_js
-1-confused_smiley
-2-hellofile
-3-twofiles
-4-lastlines
-5-firstlines
-6-third_line
-7-file
-8-cwd_state
-9-duplicate_last_line
-*\\''"Best School"'\'\*$\?\\*\\*\\*\\*\\*\\*\\*\\:)
-*\\''"Best School"'\'\*$\?\\*\\*\\*\\*\\*\\*\\*\\:)echo
-ls_cwd_content
-README.md
+total 76
+drwxr-xr-x 2 root root  4096 Sep  4 16:39 .
+drwxr-xr-x 6 root root  4096 Sep  4 05:04 ..
+-rwxr--r-- 1 root root    48 Sep  4 06:01 0-hello_world
+-rw-r--r-- 1 root root     0 Sep  4 05:22 10-no_more_js
+-rwxr--r-- 1 root root    41 Sep  4 15:05 1-confused_smiley
+-rw-r--r-- 1 root root 12288 Sep  4 14:09 .1-confused_smiley.swp
+-rwxr--r-- 1 root root    28 Sep  4 08:05 2-hellofile
+-rwxr--r-- 1 root root    39 Sep  4 08:43 3-twofiles
+-rwxr--r-- 1 root root    33 Sep  4 08:49 4-lastlines
+-rwxr--r-- 1 root root    33 Sep  4 08:53 5-firstlines
+-rwxr--r-- 1 root root    38 Sep  4 09:05 6-third_line
+-rwxr--r-- 1 root root    98 Sep  4 16:33 7-file
+-rwxr--r-- 1 root root    36 Sep  4 16:39 8-cwd_state
+-rwxr--r-- 1 root root    28 Sep  4 12:30 9-duplicate_last_line
+-rw-r--r-- 1 root root    14 Sep  4 12:04 *\\''"Best School"'\'\*$\?\\*\\*\\*\\*\\*\\*\\*\\:)
+-rw-r--r-- 1 root root    12 Sep  4 16:18 \*\\\"Best School\"\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Sep  4 10:59 *\\''"Best School"'\'\*$\?\\*\\*\\*\\*\\*\\*\\*\\:)echo
+-rw-r--r-- 1 root root     0 Sep  4 16:40 ls_cwd_content
+-rw-r--r-- 1 root root   519 Sep  4 09:13 README.md
