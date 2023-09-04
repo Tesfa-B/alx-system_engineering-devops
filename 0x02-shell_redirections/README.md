@@ -1,2 +1,2 @@
 *All scripts for the task
-pr Hello,World
+echo "Hello,World" < 0-hello_world
